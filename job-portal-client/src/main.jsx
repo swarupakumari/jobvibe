@@ -13,7 +13,7 @@ createRoot(document.getElementById("root")).render(
         domain="dev-ig7i51uf0c4fxrbb.us.auth0.com"
         clientId="TqUTUNDGQsAgquGJorrSAjka8lVqtIpC"
         authorizationParams={{
-          redirect_uri: "http://localhost:5173/",
+          redirect_uri: "https://jobvibe-front.vercel.app/",
         }}
         audience="http://localhost:3000"
         scope="openid profile email"
