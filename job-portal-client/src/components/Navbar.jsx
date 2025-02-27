@@ -9,7 +9,7 @@ const Navbar = () => {
   const handleMenuToggler = () => {
     setIsMenuOpen(!isMenuOpen);
   };
-
+ 
   const { loginWithRedirect, isAuthenticated } = useAuth0(); // No need for user and logout here
 
   const navItems = [

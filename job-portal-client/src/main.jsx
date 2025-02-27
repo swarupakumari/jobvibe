@@ -10,8 +10,8 @@ createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <MantineProvider withGlobalStyles withNormalizeCSS>
       <Auth0Provider
-        domain="dev-oegz3g6pqp8fms76.us.auth0.com"
-        clientId="SR2zNoiOdIov6x0S7AvWIeU9x5TL5Eh0"
+        domain="dev-ig7i51uf0c4fxrbb.us.auth0.com"
+        clientId="TqUTUNDGQsAgquGJorrSAjka8lVqtIpC"
         authorizationParams={{
           redirect_uri: "http://localhost:5173/",
         }}
