@@ -1,0 +1,44 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Firebase-related files
+firebase-debug.log
+.firebase/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.idea/
+.vscode/
+*.swp
+
+# OS-specific
+*.bak
+*.tmp
+*.lock
+*.pid
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.cache
+*.temp
+.env
